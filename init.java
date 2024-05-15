@@ -1,5 +1,5 @@
 public class init{
     
-  private int hola;
+  private int chau;
   
 }
